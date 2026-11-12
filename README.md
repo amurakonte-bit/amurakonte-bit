@@ -1,5 +1,13 @@
-## Hi there 👋
+# Привет! Я амураконте-бит 👋
 
+Я начинающий разработчик и учусь работать с Git!
+
+## Мои навыки:
+* Git
+* GitHub
+* Markdown
+
+**Связь со мной:** amur.akonte@gmail.com
 <!--
 **amurakonte-bit/amurakonte-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
